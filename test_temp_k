@@ -1,5 +1,5 @@
 import pytest
-from temperature_converter import *
+from temp_k import *
 
 # Параметризованные тесты для основных конвертаций
 @pytest.mark.parametrize("celsius, fahrenheit", [
