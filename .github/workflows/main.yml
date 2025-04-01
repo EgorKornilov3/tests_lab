@@ -25,4 +25,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest test_temperature_converter.py -v  # Запускаем тесты
+        pytest test_tempe_k.py -v  # Запускаем тесты
